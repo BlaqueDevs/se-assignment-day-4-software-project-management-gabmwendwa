@@ -2,15 +2,15 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18474724&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-###Version control### is a system that records changes to a file or set of files over time so that you can recall specific 1 versions later. ###GitHub### is a popular tool because it aweb-based platform that provides hosting for version control using Git.
+***Version control*** is a system that records changes to a file or set of files over time so that you can recall specific 1 versions later***GitHub*** is a popular tool because it aweb-based platform that provides hosting for version control using Git.
 Version control plays a crucial role in maintaining project integrity in several ways:
--	###Preventing Code Loss:### By tracking every change, version control prevents accidental code loss. If something goes wrong, you can always revert to a previous version.
--	###Facilitating Collaboration:### It allows multiple developers to work on the same project without overwriting each other's changes.
--	###Ensuring Code Quality:### Features like code reviews and pull requests help to ensure that only high-quality code is merged into the main codebase.
--	###Simplifying Bug Tracking:### By tracking changes, version control makes it easier to identify the source of bugs.
--	###Enabling Experimentation:### Branches allow developers to experiment with new features without risking the stability of the main codebase.
--	###Auditing Changes:### It provides a detailed history of all changes, making it easy to audit the project and understand how it has evolved.
--	###Disaster Recovery:### Having a remote repository on github ensures that even if local machines fail, the code is safe.
+-	***Preventing Code Loss:*** By tracking every change, version control prevents accidental code loss. If something goes wrong, you can always revert to a previous version.
+-	***Facilitating Collaboration:*** It allows multiple developers to work on the same project without overwriting each other's changes.
+-	***Ensuring Code Quality:*** Features like code reviews and pull requests help to ensure that only high-quality code is merged into the main codebase.
+-	***Simplifying Bug Tracking:*** By tracking changes, version control makes it easier to identify the source of bugs.
+-	***Enabling Experimentation:*** Branches allow developers to experiment with new features without risking the stability of the main codebase.
+-	***Auditing Changes:*** It provides a detailed history of all changes, making it easy to audit the project and understand how it has evolved.
+-	***Disaster Recovery:*** Having a remote repository on github ensures that even if local machines fail, the code is safe.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ### Key Steps:
@@ -20,15 +20,15 @@ Version control plays a crucial role in maintaining project integrity in several
 #### Create a New Repository:
 -	In the upper-right corner of any GitHub page, click the "+" dropdown menu, and then select "New repository."
 #### Repository Details:
--	###Repository Name:### Choose a clear and descriptive name for your repository.
--	###Description (Optional):### Add a brief description of your project. This helps others understand the repository's purpose.
+-	***Repository Name:*** Choose a clear and descriptive name for your repository.
+-	***Description (Optional):*** Add a brief description of your project. This helps others understand the repository's purpose.
 #### Visibility:
--	###Public:### Anyone on the internet can see your repository.
--	###Private:### Only you and people you explicitly grant access to can see your repository.
+-	***Public:*** Anyone on the internet can see your repository.
+-	***Private:*** Only you and people you explicitly grant access to can see your repository.
 #### Initialize with:
--	###README:### It is highly recommended to select this option. This creates a README.md file, which is a standard file for providing information about your project.
--	###.gitignore:### Choose a template for your .gitignore file based on the programming languages or frameworks you'll be using. This file tells Git which files and folders to ignore.
--	###License:### Select a license for your project. This defines how others can use your code.
+-	***README:*** It is highly recommended to select this option. This creates a README.md file, which is a standard file for providing information about your project.
+-	***gitignore:*** Choose a template for your .gitignore file based on the programming languages or frameworks you'll be using. This file tells Git which files and folders to ignore.
+-	***License:*** Select a license for your project. This defines how others can use your code.
 #### Create the Repository:
 -	Click the "Create repository" button.
 ### Important Decisions:
