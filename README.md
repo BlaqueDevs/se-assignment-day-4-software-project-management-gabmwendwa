@@ -228,19 +228,19 @@ You're right, the choice between Agile and Waterfall hinges significantly on the
 ### Waterfall is More Beneficial When:
 #### Projects with Well-Defined and Stable Requirements:
 - When the client has a clear understanding of their needs, and the requirements are unlikely to change.
-- ***Example: Developing a safety-critical system for an aircraft. Strict adherence to specifications is crucial.
+- ***Example:*** Developing a safety-critical system for an aircraft. Strict adherence to specifications is crucial.
 #### Projects with Strict Regulatory Compliance:
 - When the project must adhere to specific regulations or standards that require thorough documentation and traceability.
-- ***Example: Developing medical device software. Detailed documentation and validation are essential for regulatory approval.
+- ***Example:*** Developing medical device software. Detailed documentation and validation are essential for regulatory approval.
 #### Projects with Predictable Timelines and Budgets:
 - When the client requires a fixed price and a guaranteed delivery date.
-- ***Example: Building a bridge or a physical infrastructure project. Detailed planning and predictable execution are essential.
+- ***Example:*** Building a bridge or a physical infrastructure project. Detailed planning and predictable execution are essential.
 #### Projects Where Documentation is Paramount:
 - When very detailed documentation is required, and must be created before the next step of the project can begin.   
-- ***Example: creating a new operating system. Every step of the process must be documented.
+- ***Example:*** creating a new operating system. Every step of the process must be documented.
 #### Projects with less client input:
-- when the client provides the requirements at the start of the project, and then has very little input until the project is completed.
-- ***Example: The creation of a database for a large company. The company provides the database requirements, and then the development team creates the database.
+- When the client provides the requirements at the start of the project, and then has very little input until the project is completed.
+- ***Example:*** The creation of a database for a large company. The company provides the database requirements, and then the development team creates the database.
 
 In essence, Agile thrives in dynamic, uncertain environments, while Waterfall excels in stable, predictable ones.
 
